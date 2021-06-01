@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/leonardor666/images/main/print.jpeg"  height="600" />
+<img src="https://raw.githubusercontent.com/leonardor666/images/main/fenrir.jpg"  height="600" />
 
 # FenrirCrack é uma ferramenta de bruteforce de hashes
 
@@ -25,4 +25,4 @@ chmod +x FenrirCrack.py
 
 A própria ferramenta irá de guiar solicitando a hash completa e o caminho para uma wordlist.
 
-![FC](https://raw.githubusercontent.com/lokisuite/images/main/fc/print.jpeg)
+![FC](https://raw.githubusercontent.com/leonardor666/images/main/print.jpeg)

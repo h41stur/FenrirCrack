@@ -19,7 +19,7 @@ def banner():
 	
 	Desenvolvido por:
 
-	Leonardo Toledo
+	H41stur
 
 	------------------------------------------------------
 
@@ -37,7 +37,7 @@ class cor:
 banner()
 
 hash = raw_input("HASH: ")
-wl = raw_input("\nWORDLIST :")
+wl = raw_input("\nWORDLIST: ")
 
 
 print "\n" + cor.azul
